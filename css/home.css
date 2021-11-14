@@ -8,6 +8,9 @@
 	height: 1000px;
 
 }
+.navbar-brand{
+	font-family: cursive;
+}
 .header{
 	color: #fff;
 }
@@ -16,7 +19,7 @@
 	padding-left: 30px;
 }
 .menu-for{
-	padding-right: 270px;
+	padding-right: 200px;
 }
 .user-form{
 	padding-left: 350px;
