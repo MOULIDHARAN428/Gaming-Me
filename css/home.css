@@ -1,0 +1,95 @@
+*{
+
+}
+.header{
+	background-image: url(../assets/images/2654172.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 1000px;
+
+}
+.header{
+	color: #fff;
+}
+.header span{
+	padding-right: 5px;
+	padding-left: 30px;
+}
+.menu-for{
+	padding-right: 270px;
+}
+.user-form{
+	padding-left: 350px;
+}
+.header h2{
+	margin-top: 500px;
+	text-align: center;
+}
+.body-quotes{
+	padding-left: 140px;
+	height: 580px;
+    width: 900px;
+}
+.pros{
+	background-image: url(../assets/images/Image_1.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 2700px;
+	padding-left: 220px;
+	padding-right: 220px;
+	padding-top: 250px;
+	font-size: 25px;
+	color: white;
+	font-family: sans-serif;
+}
+.pros h1{
+	font-family: cursive;
+	text-align: center;
+	padding-bottom: 130px;
+}
+.pros-list{
+	padding-bottom: 50px;
+}
+.joy-stick{
+	position: absolute;
+	left: 500px;
+	padding-top: 50px;
+	height: 300px;
+	width: 400px;
+}
+.contact-form{
+	position: absolute;
+	left: 400px;
+	padding-top: 360px;
+	height: 800px;
+	width: 600px;
+}
+.modal-header{
+	background-color:purple;
+}
+
+.login-btn{
+	color: #000 !important;
+	margin-right: 5px;
+	margin-left: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-top: 3px;
+	margin-bottom: 5px;
+	padding-top: 3px;
+	padding-bottom: 5px;
+	width: 100px;
+}
+.form-check-input{
+	margin-bottom: 70px
+}
+#exampleInputEmail3{
+	width:300px;
+}
+#exampleInputPassword3{
+	width:300px;
+}
+.loginModal-btn{
+	margin-top: 30px;
+	margin-bottom: 5px;
+}
